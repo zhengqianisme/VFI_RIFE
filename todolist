@@ -1,0 +1,4 @@
+1\create data unzip
+2\remove old data,dont delete
+3\create list dir=create_dataset.py change dir
+make list,cancate create_dataset.py  and   npzfil.py
